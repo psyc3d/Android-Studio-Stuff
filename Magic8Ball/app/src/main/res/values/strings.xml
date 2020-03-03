@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="Answer_button">Answer Please!</string>
+    <string name="hint_text">Type your question here</string>
+    <string name="ball_desc">Ball image</string>
+</resources>
